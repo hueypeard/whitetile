@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	margin: 0 auto;
+	background: #11374F;
+	color: white;
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
+#game-canvas {
+	border: 4px solid #11374F;
+}
+
+a {
+	color: white;
+}
